@@ -1,0 +1,8 @@
+.tool-bar{
+    background: #4284DB;
+    background: -webkit-linear-gradient(to right, #4284DB, #29EAC4);
+    background: linear-gradient(to right, #4284DB, #29EAC4);
+}
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+    top: 64px;
+}
