@@ -20,10 +20,19 @@ import WorkIcon from '@mui/icons-material/Work';
 import AssignmentIcon from '@mui/icons-material/Assignment';
 
 import Content from '../Content/Content'
+import { Router, Route, Link } from 'react-router'
 
 import './Drawer.css'
+// import App from "../App";
+// import Education from "../SideBar/Education.js"
 
 const drawerWidth = 240;
+
+// const routes = (
+//   <Route component={App}>
+//     <Route path="edu" components={{main: Education}}/>
+//   </Route>
+// )
 
 const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(
   ({ theme, open }) => ({

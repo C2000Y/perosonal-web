@@ -1,0 +1,20 @@
+.Intro {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background: #61dafb;
+}
+
+.Box {
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+
+.Desc{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background: #29EAC4;
+}
